@@ -3,6 +3,6 @@ This repository provides a solution for detecting the position of a smaller imag
 ### Objective
 Given two images:
 
-A [larger image] (https://drive.google.com/file/d/1UqRqni9exxxWUj9sxJTfkyj2GHREkWMf/view) (big image).
+A [larger image](https://drive.google.com/file/d/1UqRqni9exxxWUj9sxJTfkyj2GHREkWMf/view) (big image).
 A [smaller image] (https://drive.google.com/file/d/1SOlJshvAOCwhM92YTPXHXurJS1h_Uf6l/view) (template to find within the larger image).
 The goal is to detect the position of the smaller image within the larger one and return its top-left corner coordinates.
